@@ -61,3 +61,30 @@ body{
     margin-top: 100px;
 }
 
+/*what we do section*/
+.products{
+    height: 350px;
+}
+
+.products h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+#design{
+    margin-top: 15px;
+}
+
+#develop{
+    margin-top: 15px;
+}
+
+#product{
+    margin-top: 15px;
+}
+.col-md-12{
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: -40px;
+}
