@@ -2,3 +2,40 @@ html, body {
     max-width: 100%;
     overflow-x: hidden;
 }
+
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+    
+.landing{
+    background-image:  url(../images/h_img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-image: no-repeat;
+    text-align: center;
+    height: 650px;
+}
+.content{
+    color: white;
+    
+}
+.content >img, .h1{
+    margin-top: 300px;
+}
+.welcome{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.amazing{
+    font-size: small;
+}
+/*-----about us section*/
+#about h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
