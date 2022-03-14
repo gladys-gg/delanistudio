@@ -88,3 +88,42 @@ body{
     margin-left: 10px;
     margin-right: -40px;
 }
+
+
+/*contact us section*/
+.contact{
+    background-image: url(../images/c_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #ffffff;
+    padding: 30px;
+    margin-top: 50px;
+}
+.contact >h1{
+    text-align: center;
+    color: black;
+}
+.contactform{
+    display: flex;
+    justify-content: center;
+
+}
+
+.forminput{
+    background-color: transparent;
+}
+.inputmessage{
+    background-color: transparent;
+}
+#message{
+    height: 250px;
+}
+    
+
+
+/*social media*/
+.social-media{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
